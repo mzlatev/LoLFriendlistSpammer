@@ -1,0 +1,11 @@
+C:\Users\MZlatev\Desktop\clnsv4\bin\Debug\FriendListCleanser.exe
+C:\Users\MZlatev\Desktop\clnsv4\bin\Debug\FriendListCleanser.pdb
+C:\Users\MZlatev\Desktop\clnsv4\bin\Debug\agsXMPP.dll
+C:\Users\MZlatev\Desktop\clnsv4\bin\Debug\MaterialSkin.dll
+C:\Users\MZlatev\Desktop\clnsv4\obj\x86\Debug\FriendList Cleanser.csprojResolveAssemblyReference.cache
+C:\Users\MZlatev\Desktop\clnsv4\obj\x86\Debug\FriendListCleanser.Properties.Resources.resources
+C:\Users\MZlatev\Desktop\clnsv4\obj\x86\Debug\FriendListCleanser.Credit.resources
+C:\Users\MZlatev\Desktop\clnsv4\obj\x86\Debug\FriendListCleanser.MainForm.resources
+C:\Users\MZlatev\Desktop\clnsv4\obj\x86\Debug\FriendList Cleanser.csproj.GenerateResource.Cache
+C:\Users\MZlatev\Desktop\clnsv4\obj\x86\Debug\FriendListCleanser.exe
+C:\Users\MZlatev\Desktop\clnsv4\obj\x86\Debug\FriendListCleanser.pdb
